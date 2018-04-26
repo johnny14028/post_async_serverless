@@ -1,0 +1,8 @@
+{
+  "name": "apex-videos-log",
+  "description": "Registro de actividades de los videos",
+  "memory": 256,
+  "timeout": 20,
+  "role": "arn:aws:iam::383424139927:role/apex-videos-log_lambda_function",
+  "environment": {}
+}
